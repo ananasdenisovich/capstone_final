@@ -1,1 +1,1 @@
-print("pizdec")
+print("hi")
